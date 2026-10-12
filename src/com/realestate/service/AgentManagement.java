@@ -1,5 +1,6 @@
 package com.realestate.service;
 
+import com.realestate.algorithm.AgentSorter;
 import com.realestate.datastructure.AgentBST;
 import com.realestate.model.Agent;
 import com.realestate.util.AgentFileHandler;
@@ -310,5 +311,16 @@ public class AgentManagement {
      */
     public int getAgentCount() {
         return getAllAgents().size();
+    }
+
+    /**
+     * Retrieves all agents from the AgentBST and returns them sorted by
+     * AverageRating in descending order (highest rating first) using Selection Sort.
+     *
+     * @return List of agents sorted by AverageRating descending.
+     */
+    public List<Agent> sortAgentsByRating() {
+        List<Agent> allAgents = getAllAgents();
+        return AgentSorter.sortAgentsByRating(allAgents);
     }
 }
