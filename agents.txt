@@ -1,0 +1,10 @@
+A001,Kamal Perera,Residential,0712345678,kamal@gmail.com,4.5,25
+A002,Nimal Fernando,Commercial,0723456789,nimal@gmail.com,4.2,18
+A003,Sanduni Silva,Luxury,0774567890,sanduni@gmail.com,4.8,32
+A004,Tharindu Jayasinghe,Residential,0755678901,tharindu@gmail.com,4.1,15
+A005,Amali Perera,Land,0766789012,amali@gmail.com,4.6,21
+A006,Ravindu Fernando,Commercial,0747890123,ravindu@gmail.com,3.9,12
+A007,Hasini Silva,Luxury,0788901234,hasini@gmail.com,4.7,29
+A008,Kasun Perera,Residential,0709012345,kasun@gmail.com,4.0,14
+A009,Dilshan Kumar,Land,0710123456,dilshan@gmail.com,4.3,19
+A010,Shalini Fernando,Commercial,0771234567,shalini@gmail.com,4.9,35
