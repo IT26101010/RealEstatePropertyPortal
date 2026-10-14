@@ -1,7 +1,0 @@
-U001,kamal,kamal@gmail.com,1234,Regular
-U005,Chamodya,chamodya@gmail.com,12345,Regular
-U999,admin,admin123@example.com,TestAdmin2026,Admin
-U003,Navod,navod@gmail.com,12345,RegularU004,Dilshan,dil@gmail.com,12345,Regular
-U006,Niroshan,niroshan@gmail.com,12345,Regular
-U007,Saman,saman@gmail.com,12345,Regular
-U007,Kamala,kamala@gmail.com,12345,Regular
